@@ -1,0 +1,8 @@
+admin.nodeinfo
+miner.start(1)
+miner.stop()
+eth.coinbase
+eth.accounts[0]
+eth.getBalance(eth.accounts[0])
+txpool.status
+eth.blockNumber
